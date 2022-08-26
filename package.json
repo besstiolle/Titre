@@ -1,0 +1,24 @@
+{
+  "name": "titre",
+  "version": "0.0.1",
+  "description": "A backend for the Slack's Bot 'Titre!'",
+  "private": true,
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/besstiolle/Titre.git"
+  },
+  "author": "Kevin Danezis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/besstiolle/Titre/issues"
+  },
+  "homepage": "https://github.com/besstiolle/Titre#readme",
+  "devDependencies": {
+  },
+  "type": "module",
+  "dependencies": {
+    "faunadb": "^4.4.2"
+  }
+}
